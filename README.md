@@ -17,7 +17,7 @@ For more details, you might want to refer to the tables below.
 
 ![](june_temp.jpg)
 
-![](dec_temp.jpg)
+![](december_temp.jpg)
 
 ## Summary
 With those kind of results, an ice cream shop can be profitable. People usually enjoy eating ice cream between 70 and 75 degrees. However, W.Avy might want some more details about the weather. For example, he should ask about the rain or even the wind. If it's usually raining or windy, an ice cream shop will not be profitable. People won't go to the beach and spend on ice cream or surf equipment. W.Avy could also be interested in the weather frequency during the months of june and december. Luckily, we have done it for him (See the image below). 
